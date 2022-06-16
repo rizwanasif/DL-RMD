@@ -3,6 +3,7 @@ This repository provides the trained network weights for the forward modelling o
 
 Run demo using DL_RMD_demo.ipynb
 
+
 Layer 1 weights: L1_W.txt
 
 Layer 1 bias:    L1_B.txt 
@@ -15,9 +16,14 @@ Layer 3 weights: L3_W.txt
 
 Layer 3 bias:    L3_B.txt
 
+
 dBdt normalization mean values: mu.txt
+
 dBdt normalization std values:  std.txt
+
 dBdt time instants:             t.txt
 
+
 Test set (Input) having 697 samples : resistivity_Soften.txt
+
 Test set (Target output ) :           resistivity_Soften.txtforwards_Soften.txt
