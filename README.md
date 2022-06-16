@@ -1,4 +1,5 @@
-# DL-RMD
+# DL-RMD: A geophysically constrained electromagnetic resistivity model database for deep learning applications (code demo)
+
 This repository provides the trained network weights for the forward modelling of tTEM data and make a network forward pass to obtain the tTEM forward response from the network.
 
 Run demo using DL_RMD_demo.ipynb
@@ -6,7 +7,7 @@ Run demo using DL_RMD_demo.ipynb
 
 
 
-Parameter description:
+## Parameter description:
 
 Layer 1 weights: L1_W.txt
 
