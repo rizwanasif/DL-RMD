@@ -4,6 +4,8 @@ This repository provides the trained network weights for the forward modelling o
 Run demo using DL_RMD_demo.ipynb
 
 
+Parameter description:
+
 Layer 1 weights: L1_W.txt
 
 Layer 1 bias:    L1_B.txt 
