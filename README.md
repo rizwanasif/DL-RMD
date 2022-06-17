@@ -4,7 +4,8 @@ This repository provides the trained network weights for the forward modelling o
 
 ## Demo Code:
 
-Use [DL_RMD_demo.ipynb]([https://www.google.com](https://github.com/rizwanasif/DL-RMD/blob/main/DL_RMD_demo.ipynb)) and run in Colab for demo.
+[DL_RMD_demo.ipynb](https://colab.research.google.com/github/rizwanasif/DL-RMD/blob/main/DL_RMD_demo.ipynb)
+
 
 ## Download the dataset:
 
