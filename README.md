@@ -2,10 +2,13 @@
 
 This repository provides the trained network weights for the forward modelling of tTEM data and make a network forward pass to obtain the tTEM forward response from the network.
 
+## Demo Code:
+
 Use DL_RMD_demo.ipynb and run in Colab for demo.
 
+## Download the dataset:
 
-
+The original files of the dataset can be downloaded from here as an archive file. The metadata is provided in the archive file.
 
 ## Parameter description:
 
