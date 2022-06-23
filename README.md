@@ -9,7 +9,7 @@ This repository provides the trained network weights for the forward modelling o
 
 ## Download the dataset:
 
-The original files of the dataset can be [downloaded from here](www.google.com) as an archive file. The metadata is provided in the archive file.
+The original files of the dataset can be [downloaded from here](https://doi.org/10.5281/zenodo.6695868) as an archive file. The metadata is provided in the archive file.
 
 ## Citation:
 
