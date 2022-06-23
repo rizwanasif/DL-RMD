@@ -58,4 +58,6 @@ _D_VK_thk.txt_ contains the thickness of each resistivity layer of von Kármán 
 
 ## Citation:
 
+Asif, M. R., Foged, N., Bording, T., Larsen, J. J., and Christiansen, A. V. (2022). DL-RMD: A geophysically constrained electromagnetic resistivity model database for deep learning applications (Dataset) (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6695868
+
 
