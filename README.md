@@ -61,3 +61,13 @@ The original files of the dataset can be [downloaded from here](https://doi.org/
 Asif, M. R., Foged, N., Bording, T., Larsen, J. J., and Christiansen, A. V. (2022). DL-RMD: A geophysically constrained electromagnetic resistivity model database for deep learning applications (Dataset) (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6695868
 
 
+### Dataset used in:
+
+Asif, M. R., Foged, N., Maurya, P.K., Grombacher, D.J., Christiansen, A. V., Auken, E., and Larsen, J.J. (2022). Integrating neural networks in least-squares inversion of airborne time-domain electromagnetic data. Geophysics, vol. 87(4), E177-E187. https://doi.org/10.1190/geo2021-0335.1
+
+Asif, M. R., Maurya, P.K., Christiansen, A. V., Larsen, J.J. and Auken, E. (2022). Deep learning based expert system to automate time-domain electromagnetic data processing, 34th Symposium on the Application of Geophysics to Engineering and Environmental Problems, SAGEEP 2022. 
+
+Asif, M. R., Maurya, P.K., Foged, N., Larsen, J.J., Auken, E., and  Christiansen, A. V. (2022). Automated transient electromagnetic data processing for ground-based and airborne systems by a deep learning expert system. IEEE Transactions on Geoscience and Remote Sensing, in review.
+
+
+
