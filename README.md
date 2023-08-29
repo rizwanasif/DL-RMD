@@ -58,6 +58,8 @@ The original files of the dataset can be [downloaded from here](https://doi.org/
 
 ## Citation:
 
+Asif, M. R., Foged, N., Bording, T., Larsen, J. J., and Christiansen, A. V. (2023). DL-RMD: a geophysically constrained electromagnetic resistivity model database (RMD) for deep learning (DL) applications. Earth System Science Data, 15, 1389–1401. https://doi.org/10.5194/essd-15-1389-2023
+
 Asif, M. R., Foged, N., Bording, T., Larsen, J. J., and Christiansen, A. V. (2022). DL-RMD: A geophysically constrained electromagnetic resistivity model database for deep learning applications (Dataset) (Version v3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7260886
 
 
