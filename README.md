@@ -9,7 +9,7 @@ This repository provides the trained network weights for the forward modelling o
 
 ## Download the dataset:
 
-The original files of the dataset can be [downloaded from here](https://doi.org/10.5281/zenodo.6907090) (comma separated delimiters and each row is one entry). The metadata is as below:
+The original files of the dataset can be [downloaded from here](https://doi.org/10.5281/zenodo.7260886) (comma separated delimiters and each row is one entry). The metadata is as below:
 
 
 ### S-RMD:
@@ -58,7 +58,7 @@ The original files of the dataset can be [downloaded from here](https://doi.org/
 
 ## Citation:
 
-Asif, M. R., Foged, N., Bording, T., Larsen, J. J., and Christiansen, A. V. (2022). DL-RMD: A geophysically constrained electromagnetic resistivity model database for deep learning applications (Dataset) (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6695868
+Asif, M. R., Foged, N., Bording, T., Larsen, J. J., and Christiansen, A. V. (2022). DL-RMD: A geophysically constrained electromagnetic resistivity model database for deep learning applications (Dataset) (Version v3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7260886
 
 
 ### Dataset used in:
